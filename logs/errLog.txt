@@ -1,0 +1,3 @@
+20250520	10:53:50	536ea3c8-daaf-4385-b5e8-020c36a97d2f	Error: not allowed by CORS
+20250520	13:08:44	729aac44-fb05-44db-9193-9419d25bcacc	TypeError: req.json is not a function
+20250521	13:43:18	6681cc2c-4905-4aff-808d-50561037db46	TypeError: Cannot read properties of undefined (reading 'map')
